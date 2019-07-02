@@ -44,3 +44,5 @@ If you have any question, feel free to start issue, or you can find me here (^,^
 [http://www.robots.ox.ac.uk/~vgg/data/scenetext/](http://www.robots.ox.ac.uk/~vgg/data/scenetext/)
 
 [https://github.com/ankush-me/SynthText.git](https://github.com/ankush-me/SynthText.git)
+
+[https://github.com/JarveeLee/SynthText_Chinese_version.git](https://github.com/JarveeLee/SynthText_Chinese_version.git)
